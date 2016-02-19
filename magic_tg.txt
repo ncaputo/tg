@@ -1,0 +1,2 @@
+cd tg
+bin/telegram-cli -Z get_magic.py
